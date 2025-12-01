@@ -1,0 +1,9 @@
+{
+    "name": "mon-package",
+    "version": "1.0.0",
+    "description": "Mon premier package Node.js",
+    "main": "index.js",
+    "keywords": ["test", "package", "hello"],
+    "author": "Votre Nom",
+    "license": "MIT"
+}

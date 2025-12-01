@@ -1,0 +1,2 @@
+Bienvenue sur notre serveur Node.js !
+Ce message est lu depuis un fichier texte.

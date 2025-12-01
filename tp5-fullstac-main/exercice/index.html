@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serveur Node.js</title>
+</head>
+<body>
+    <h1>Bienvenue sur mon serveur Node.js</h1>
+    <p>Ceci est une page envoyée depuis le serveur.</p>
+    <p>Date et heure: <span id="datetime"></span></p>
+    
+    <script>
+        document.getElementById('datetime').textContent = new Date().toLocaleString();
+    </script>
+</body>
+</html>

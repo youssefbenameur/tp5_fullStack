@@ -1,0 +1,11 @@
+{
+    "name": "projet-client",
+    "version": "1.0.0",
+    "description": "Projet test utilisant mon-package",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "node app.js"
+    },
+    "dependencies": {}
+}
